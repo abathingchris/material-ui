@@ -29,7 +29,7 @@
     "url": "https://github.com/callemall/material-ui/issues"
   },
   "homepage": "http://material-ui.com/",
-  "peerDependencies": {
+  "dependencies": {
     "react": "^0.14.0",
     "react-dom": "^0.14.0",
     "react-tap-event-plugin": "^0.2.0",
@@ -64,15 +64,8 @@
     "karma-webpack": "^1.7.0",
     "mocha": "^2.2.5",
     "phantomjs": "^1.9.17",
-    "react": "^0.14.0",
-    "react-addons-create-fragment": "^0.14.0",
-    "react-addons-pure-render-mixin": "^0.14.0",
-    "react-addons-transition-group": "^0.14.0",
-    "react-addons-update": "^0.14.0",
-    "react-dom": "^0.14.0",
     "react-hot-loader": "^1.2.8",
     "react-router": "^1.0.0-rc1",
-    "react-tap-event-plugin": "^0.2.0",
     "recursive-readdir-sync": "^1.0.6",
     "rimraf": "^2.4.3",
     "sinon": "^1.15.4",
