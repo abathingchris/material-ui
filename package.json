@@ -5,7 +5,6 @@
   "description": "Material Design UI components built with React",
   "main": "./lib",
   "scripts": {
-    "postinstall": "babel --stage 1 ./src --out-dir ./lib",
     "test": "npm run test-base -- --single-run",
     "test-watch": "npm run test-base -- --auto-watch",
     "test-base": "./node_modules/.bin/karma start",
